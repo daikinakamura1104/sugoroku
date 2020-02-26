@@ -1,0 +1,31 @@
+body{
+    padding: 200px;
+}
+
+.Tinput{
+    margin-bottom: 10px;
+}
+
+.Jinput{
+    margin-bottom: 10px;
+}
+
+.titlecontainer{
+    display: flex;
+}
+
+.dice{
+    margin-left: 30px;
+}
+
+.submitdice{
+    margin-top: 15px;
+}
+
+.scoreTaro{
+    margin-bottom: 10px;
+}
+
+.imggoal{
+    margin-left: 60px;
+}
